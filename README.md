@@ -98,7 +98,7 @@ To run this project locally, follow these steps:
 ---
 
 ## Contributors
-Sohini Chakraborty, ([@nshakhapur]([https://github.com/nshakhapur])
+Sohini Chakraborty, Nidhi Shakhapur
 
 
 ---
